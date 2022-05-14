@@ -18,7 +18,7 @@
 Projetos/Projects but documentation in PT-BR:
 1. [Empreenda](https://jovepy.github.io/empreenda/) 
 2. Invista em bons fundos
-3. Opere com Derivativos
+3. [Opere com Derivativos](https://jovepy.github.io/Opere-com-derivativos/)
 
 <!---
 jovepy/jovepy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
